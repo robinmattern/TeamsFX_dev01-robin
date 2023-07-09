@@ -1,0 +1,11 @@
+{
+    "name": "example-static-js-app",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server --cors"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/msusdev/example-static-js-app"
+    }
+}

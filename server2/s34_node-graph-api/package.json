@@ -1,0 +1,11 @@
+{
+  "name": "s34_node-graph-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node . --op getUsers"
+  },
+  "author": "Robin Mattern",
+  "license": "ISC"
+}
